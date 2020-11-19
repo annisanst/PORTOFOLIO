@@ -1,0 +1,79 @@
+.body{
+    margin:0;
+    padding : 0;
+}
+
+.bg-nav {
+    background-color: rgb(145, 143, 143);
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-menu {
+    padding-right: 40pt;
+    text-align: center;
+    color:black;
+    text-decoration: none;
+}
+
+.nav-menu li {
+    padding-right: 20pt;
+    padding-left: 20pt;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+
+.nav-menu li:hover {
+    background-color: rgb(247, 174, 174);
+    text-align: center;
+    text-decoration:none;
+    color: black;
+}
+
+.nav-link{
+    color: black;
+}
+
+.nav-link li:hover{
+    color: black;
+    text-decoration: none;
+}
+
+.btn-porto {
+  font-family: "Poppins", sans-serif;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 1px;
+  display: inline-block;
+  padding: 8px 28px;
+  border-radius: 50px;
+  transition: 0.5s;
+  margin: 10px;
+  border: 2px solid #fff;
+  color: white;
+  text-decoration: none;
+}
+
+.btn-porto:hover{
+    background: white;
+    border: 2px solid white;
+    color: rgb(247, 174, 174);
+}
+
+.section2 {
+    background-color: bisque;
+    padding-bottom: 100px;
+}
+
+.container {
+    margin-right: 50px;
+}
+
+.landing-page {
+    background-image: url('../image/mobileappback.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
